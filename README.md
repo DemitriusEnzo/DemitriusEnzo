@@ -1,13 +1,9 @@
 <h1 align="center">Olá, eu sou o Enzo Demitrius 👋</h1>
 
----
-
 ## 🧠 Contatos
 
 - ✉️ Entre em contato: enzodemitrius10@gmail.com  
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/enzodemitrius)
-
----
 
 ## 🚀 Tecnologias que utilizo
 
@@ -20,8 +16,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-
----
 
 ## 📊 Estatísticas do GitHub
 
