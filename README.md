@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Enzo Demitrius 👋</h1>
+<h1 align="center">Olá, sou o Enzo Demitrius. </h1>
 
-## 🧠 Contatos
+## Contatos
 
 - ✉️ Entre em contato: enzodemitrius10@gmail.com  
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/enzodemitrius)
 
-## 🚀 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
