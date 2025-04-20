@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Enzo Demitrius. </h1>
+<h1 align="center">Olá, sou o Enzo Demitrius.</h1>
 
 ## Contatos
 
